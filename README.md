@@ -1,1 +1,1 @@
-# college-project
+# Stand up comedy India static website
